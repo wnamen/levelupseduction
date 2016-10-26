@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+3simplequestions.com	TRUE	/	FALSE	1999999999	PHPSESSID	94e7ccba521142c3cea1ef68108cc3c8
+3simplequestions.com	TRUE	/	FALSE	1999999999	userdata[sid]	deleted
+3simplequestions.com	TRUE	/	FALSE	1999999999	userdata[cid]	857ff98be405614.53369284
+3simplequestions.com	TRUE	/	FALSE	1999999999	userdata[afid]	nats
+3simplequestions.com	TRUE	/	FALSE	1999999999	userdata[affid]	170088
+3simplequestions.com	TRUE	/	FALSE	1999999999	userdata[mediasource]	deleted
+3simplequestions.com	TRUE	/	FALSE	1999999999	userdata[currentsource]	deleted
+

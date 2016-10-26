@@ -1,0 +1,12 @@
+HTTrack3.48-21 launched on Sun, 23 Oct 2016 17:07:08 at http://3simplequestions.com/readhermind/indexmsit.php?afid=nats&affid=170088&cid=857ff98be405614.53369284&SID=dsp&autocamp=LT&subaff=dsp&ocode=MTcwMDg4LjEuMS4yNS4xLjAuMC4wLjAuMTk3MTM4LjAuMA
+(winhttrack http://3simplequestions.com/readhermind/indexmsit.php?afid=nats&affid=170088&cid=857ff98be405614.53369284&SID=dsp&autocamp=LT&subaff=dsp&ocode=MTcwMDg4LjEuMS4yNS4xLjAuMC4wLjAuMTk3MTM4LjAuMA -O "/Users/wnamen/programming/freelance/levelupseduction_v2/LevelUpSeduction" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:07:12	Warning: 	Note: due to 3simplequestions.com remote robots.txt rules, links beginning with these path will be forbidden: /simple-trick-video, /enter, /readhermind, /7bitches, /qualify (see in the options to disable this)
+
+HTTrack Website Copier/3.48-21 mirror complete in 4 seconds : 2 links scanned, 1 files written (45322 bytes overall) [17470 bytes received at 4367 bytes/sec], 45322 bytes transferred using HTTP compression in 1 files, ratio 35%
+(No errors, 1 warnings, 0 messages)
